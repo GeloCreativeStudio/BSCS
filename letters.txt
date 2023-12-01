@@ -1,0 +1,11 @@
+'''
+1. create an empty list named 'letters'
+2. append all small letter vowels in order
+3. add a capital consonant after the third vowel
+4. print the position of the last vowel
+5. arrange the list so that the capital consonant is at the end of the list
+6. print the value that is in the 5th position
+7. create another list named 'alphanum' with integers 6, 7, 8, 9, and 0 as the elements
+8. append the values of every odd indices of 'letters' into 'alphanum'
+9. print all the list
+'''

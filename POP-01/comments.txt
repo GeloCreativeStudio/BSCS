@@ -1,0 +1,13 @@
+1. Basic stages of software development life-cycle
+2. Three categories of application development methodologies
+3. Five Python keywords
+4. Type of operator "=="
+5. Type of operator "="
+7. Type of operator "/"
+6. Two control structures
+8. All arithmetic operators
+9. Three comparison operators and your last name on index [0]
+Function to print the contents
+Call the function
+
+The code defines lists and tuples representing various programming concepts. It includes stages of the software development life-cycle, application development methodologies, Python keywords, operators like '==', '=', and '/', control structures, arithmetic operators, and three comparison operators with the last name "Manalo" at index [0]. There's a function, print_contents(), that prints these concepts. The function is then called to display the information.

@@ -1,0 +1,27 @@
+subjects = ["app dev", "web dev", "sw eng", "stat"]
+course = "bachelor of science in computer science"
+'''
+print the course in all caps
+print the second subject in proper case
+print the course in sentence case
+print the course where the major is changed into business administration
+print the course where each word is capitalized
+print all the subjects so that each one is separated with a comma
+print how many c's are in the course
+print a list where the elements are the words of the string 'course'
+print course
+'''
+
+# Given data
+subjects = ["app dev", "web dev", "sw eng", "stat"]
+course = "bachelor of science in computer science"
+
+# 1. Print the course in all caps
+# 2. Print the second subject in proper case (title case)
+# 3. Print the course in sentence case (capitalize the first letter)
+# 4. Print the course where the major is changed into business administration
+# 5. Print the course where each word is capitalized
+# 6. Print all the subjects so that each one is separated with a comma
+# 7. Print how many 'c's are in the course
+# 8. Print a list where the elements are the words of the string 'course'
+# 9. Print course
